@@ -1,0 +1,24 @@
+{
+    "name": "simple-texteditor",
+    "version": "0.0.2",
+    "description": "A simple and tiny npm package for rich text editor",
+    "main": "src/index.js",
+    "scripts": {
+        
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/marifuli/simple-texteditor.git"
+    },
+    "author": "clarkio",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/marifuli/simple-texteditor/issues"
+    },
+    "homepage": "https://github.com/marifuli/simple-texteditor#readme",
+    "keywords": [
+        "rich texteditor",
+        "simple texteditor",
+        "js editor"
+    ]
+}
