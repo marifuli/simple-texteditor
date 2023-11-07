@@ -163,3 +163,4 @@ class SimpleTextEditor
             '</div>';
     }
 }
+export default SimpleTextEditor
